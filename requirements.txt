@@ -140,3 +140,4 @@ xxhash==3.3.0 ; python_version >= '3.7'
 xyzservices==2023.7.0 ; python_version >= '3.8'
 yarg==0.1.9
 yarl==1.9.2 ; python_version >= '3.7'
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
